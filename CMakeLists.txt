@@ -3,4 +3,4 @@ project(C___Projects)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CProjects pi.cpp)
+add_executable(cprojects pi.cpp)
