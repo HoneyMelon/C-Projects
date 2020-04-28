@@ -1,3 +1,0 @@
-C:/Users/Lili/CLionProjects/C++ Projects/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_31be1.dir
-C:/Users/Lili/CLionProjects/C++ Projects/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/Lili/CLionProjects/C++ Projects/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
