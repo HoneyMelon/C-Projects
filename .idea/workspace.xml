@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C___Projects" targetName="CProjects" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bd514f4-cd24-4787-944c-fef76fea8ec7" name="Default Changelist" comment="" />
+    <list default="true" id="6bd514f4-cd24-4787-944c-fef76fea8ec7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C++ Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/C++ Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/gcd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pi.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +51,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b5QJkvVRqLaUyBnBC7Guie0X7E" />
   <component name="ProjectViewState">
@@ -26,8 +64,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CProjects" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C___Projects" TARGET_NAME="CProjects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C___Projects" RUN_TARGET_NAME="CProjects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,10 +92,47 @@
       <option name="presentableId" value="Default" />
       <updated>1587919405080</updated>
       <workItem from="1587919412075" duration="6000" />
+      <workItem from="1587919787852" duration="3009000" />
+      <workItem from="1588070679494" duration="386000" />
+      <workItem from="1588071084207" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587991870286">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="256" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587991870286" />
+    <state width="1558" height="223" key="GridCell.Tab.0.bottom" timestamp="1588010218737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="223" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588010218737" />
+    <state width="1558" height="223" key="GridCell.Tab.0.center" timestamp="1588010218737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="223" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588010218737" />
+    <state width="1558" height="223" key="GridCell.Tab.0.left" timestamp="1588010218737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="223" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588010218737" />
+    <state width="1558" height="223" key="GridCell.Tab.0.right" timestamp="1588010218737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="223" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588010218737" />
   </component>
 </project>
